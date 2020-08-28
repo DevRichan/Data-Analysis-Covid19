@@ -11,11 +11,9 @@
 - numpy 
 - pandas 
 - requests
+- datetime
+- matplotlib.pyplot
 
-## Functions used :
-- GET API
-- Merge Data
-- Change Data Format (date format)
 
 
 
