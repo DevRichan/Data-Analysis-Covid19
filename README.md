@@ -3,7 +3,7 @@ Certificate : https://drive.google.com/file/d/1kYZ9fTfFsTuyJZR40WRaB-i2RBBlSzCX/
 
 
 ## Information Obtained :
-- Countries with the Highest Fatality Ratio
+- Countries with the Highest Fatality Ratio (Last Update: 2020-08-16)
 
 ![11](https://user-images.githubusercontent.com/53082147/99807687-712d6a80-2b72-11eb-97de-9c1bc41de28b.PNG)
 
