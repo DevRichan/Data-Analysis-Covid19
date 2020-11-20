@@ -5,6 +5,9 @@ Certificate : https://drive.google.com/file/d/1kYZ9fTfFsTuyJZR40WRaB-i2RBBlSzCX/
 ## Information Obtained :
 - Countries with the Highest Fatality Ratio
 
+![11](https://user-images.githubusercontent.com/53082147/99807687-712d6a80-2b72-11eb-97de-9c1bc41de28b.PNG)
+
+
 
 
 
