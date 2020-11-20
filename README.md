@@ -12,7 +12,8 @@ Certificate : https://drive.google.com/file/d/1kYZ9fTfFsTuyJZR40WRaB-i2RBBlSzCX/
 
 
 
-- Covid-19 cases in 1 March 2020 - 28 Agustus 20
+- Covid-19 cases in 1 March 2020 - 28 Agustus 2020 (Indonesia, Malaysia, Singapore, Thailand, and Vietnam) 
+![22](https://user-images.githubusercontent.com/53082147/99807813-98843780-2b72-11eb-883a-70658ef6d5fc.PNG)
 
 
 
